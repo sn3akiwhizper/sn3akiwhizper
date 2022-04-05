@@ -8,12 +8,12 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <!-- <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br> -->
-        <img height="100px" src="_imgs/About-320x100.png">
+        <img height="125px" src="_imgs/About-320x100.png">
       </td>
-      <td width="25%" align="center">
-        <img height="100px" src="_imgs/Merch-320x100.png">
+      <td width="50%" align="center">
+        <img height="125px" src="_imgs/Merch-320x100.png">
       </td>
     </tr>
     <tr valign="top">
@@ -38,37 +38,37 @@
   </tbody>
 </table>
 
-<img height="220px" src="_imgs/SocialMedia-320x100.png">
+<img height="270px" src="_imgs/SocialMedia-320x100.png">
 
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <!-- <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br> -->
         <a href="https://www.youtube.com/channel/UC1DXj4nhXZcgCak6aECI4tg">
-        <img height="100px" src="_imgs/youtube-160x100.png"></a>
+        <img height="158px" src="_imgs/youtube-160x100.png"></a>
       </td>
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <a href="https://twitter.com/sn3akiwhizper">
-        <img height="100px" src="_imgs/twitter-160x100.png"></a>
+        <img height="158px" src="_imgs/twitter-160x100.png"></a>
       </td>
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <a href="https://www.tiktok.com/@sn3akiwhizper">
-        <img height="100px" src="_imgs/tiktok-160x100.png"></a>
+        <img height="158px" src="_imgs/tiktok-160x100.png"></a>
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <a href="https://patreon.com/sn3akiwhizper">
-        <img height="100px" src="_imgs/patreon-160x100.png"></a>
+        <img height="158px" src="_imgs/patreon-160x100.png"></a>
       </td>
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <a href="https://github.com/sn3akiwhizper">
-        <img height="100px" src="_imgs/github-160x100.png"></a>
+        <img height="158px" src="_imgs/github-160x100.png"></a>
       </td>
-      <td width="25%" align="center">
+      <td width="33%" align="center">
         <a href="https://www.twitch.tv/sn3akiwh1zper">
-        <img height="100px" src="_imgs/twitch-160x100.png"></a>
+        <img height="158px" src="_imgs/twitch-160x100.png"></a>
       </td>
     </tr>
   </tbody>
@@ -83,7 +83,7 @@
 - VR Home, my personal "Oasis"
 - Contractor\$ Mod contest
 
-<img height="220px" src="_imgs/Gear-320x100.png">
+<img height="270px" src="_imgs/Gear-320x100.png">
 
 - VR
   - Headset: Oculus Quest 2
